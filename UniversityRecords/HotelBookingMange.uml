@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:UMLLabProfile="http:///schemas/UMLLabProfile/NS/0" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xsi:schemaLocation="http:///schemas/UMLLabProfile/NS/0 pathmap://UMLLAB_PROFILES/UMLLab.profile.uml#UMLLabProfile-Annotation_2-UMLLabProfile">
+  <uml:Model xmi:id="_u412QLlgEemOUJjFZRspqg" name="HotelBookingMange">
+    <eAnnotations xmi:id="_u_kJULlgEemOUJjFZRspqg" source="http://ns.yatta.de/umllab">
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_u_kwYLlgEemOUJjFZRspqg" source="codegen">
+        <details xmi:id="_u_kwYblgEemOUJjFZRspqg" key="codegenDirectory" value="/HotelBookingMange/src"/>
+        <details xmi:id="_vAFtwLlgEemOUJjFZRspqg" key="observedFolders" value="/HotelBookingMange/src"/>
+        <details xmi:id="_Za7w8LllEemOUJjFZRspqg" key="AssociatedSourceCode" value="/HotelBookingMange/src/Person.java;3352681268/1;"/>
+      </contents>
+    </eAnnotations>
+    <elementImport xmi:id="_rApVULljEemOUJjFZRspqg">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+    </elementImport>
+    <elementImport xmi:id="_rAp8YLljEemOUJjFZRspqg">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#byte"/>
+    </elementImport>
+    <elementImport xmi:id="_rAp8YbljEemOUJjFZRspqg">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#char"/>
+    </elementImport>
+    <elementImport xmi:id="_rAp8YrljEemOUJjFZRspqg">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+    </elementImport>
+    <elementImport xmi:id="_rAp8Y7ljEemOUJjFZRspqg">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+    </elementImport>
+    <elementImport xmi:id="_rAp8ZLljEemOUJjFZRspqg">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+    </elementImport>
+    <elementImport xmi:id="_rAp8ZbljEemOUJjFZRspqg">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#long"/>
+    </elementImport>
+    <elementImport xmi:id="_rAqjcLljEemOUJjFZRspqg">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#short"/>
+    </elementImport>
+    <elementImport xmi:id="_rITcgLljEemOUJjFZRspqg">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </elementImport>
+    <packagedElement xmi:type="uml:Class" xmi:id="_yRFvALlhEemOUJjFZRspqg" name="Person" visibility="public">
+      <ownedRule xmi:id="_Mf6zYLliEemOUJjFZRspqg" name="constraint1">
+        <specification xmi:type="uml:OpaqueExpression" xmi:id="_Mf7acLliEemOUJjFZRspqg"/>
+      </ownedRule>
+      <ownedRule xmi:id="_Qk_LULliEemOUJjFZRspqg" name="constraint2">
+        <specification xmi:type="uml:OpaqueExpression" xmi:id="_Qk_LUbliEemOUJjFZRspqg"/>
+      </ownedRule>
+      <ownedAttribute xmi:id="_sdaOQLljEemOUJjFZRspqg" name="id">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:id="_VyguMLlkEemOUJjFZRspqg" name="name">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedAttribute>
+    </packagedElement>
+    <profileApplication xmi:id="_u_nzsLlgEemOUJjFZRspqg">
+      <eAnnotations xmi:id="_u_3EQLlgEemOUJjFZRspqg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="pathmap://UMLLAB_PROFILES/UMLLab.profile.uml#UMLLabProfile-Annotation_2-UMLLabProfile"/>
+      </eAnnotations>
+      <appliedProfile href="pathmap://UMLLAB_PROFILES/UMLLab.profile.uml#UMLLabProfile"/>
+    </profileApplication>
+  </uml:Model>
+  <UMLLabProfile:TargetLanguage xmi:id="_vACDYLlgEemOUJjFZRspqg" base_Package="_u412QLlgEemOUJjFZRspqg">
+    <languageName>java</languageName>
+  </UMLLabProfile:TargetLanguage>
+</xmi:XMI>

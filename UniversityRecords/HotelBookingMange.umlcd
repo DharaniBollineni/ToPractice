@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_u7RfMLlgEemOUJjFZRspqg">
+  <modelElement href="HotelBookingMange.uml#_u412QLlgEemOUJjFZRspqg"/>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_yRZ4ELlhEemOUJjFZRspqg" name="Person">
+    <modelElement href="HotelBookingMange.uml#_yRFvALlhEemOUJjFZRspqg"/>
+    <visualProperties xmi:id="_yRZ4EblhEemOUJjFZRspqg" position="483.0,32.0" size="212.0,204.0"/>
+    <visibility xmi:id="_yRZ4ErlhEemOUJjFZRspqg" label="+"/>
+    <attributes xmi:id="_sdefsLljEemOUJjFZRspqg" name="id">
+      <modelElement href="HotelBookingMange.uml#_sdaOQLljEemOUJjFZRspqg"/>
+      <visibility xmi:id="_sdefsbljEemOUJjFZRspqg" label="+"/>
+      <cardinality xmi:id="_sdefsrljEemOUJjFZRspqg" label="1" max="1" min="1"/>
+      <type xmi:id="_sdefs7ljEemOUJjFZRspqg" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_Vyh8ULlkEemOUJjFZRspqg" name="name">
+      <modelElement href="HotelBookingMange.uml#_VyguMLlkEemOUJjFZRspqg"/>
+      <visibility xmi:id="_Vyh8UblkEemOUJjFZRspqg" label="+"/>
+      <cardinality xmi:id="_Vyh8UrlkEemOUJjFZRspqg" label="1" max="1" min="1"/>
+      <type xmi:id="_Vyh8U7lkEemOUJjFZRspqg" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>
